@@ -6,6 +6,6 @@ Its built to enable email sending from Samlite portfolio.
 ## Getting started
 
 ```javascript
-// An highlighted block
+// using yarn
 yarn start
 ```
